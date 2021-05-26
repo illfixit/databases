@@ -7,7 +7,7 @@ Finish
 
 2. Retrieving Data
 Start
-
+Finish
 
 3. Querying Across Tables
 4. Creating, Updating, and Deleting
