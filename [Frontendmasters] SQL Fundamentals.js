@@ -19,7 +19,7 @@ Finish
 
 5. The Schema Evolves
 Start
-
+Finish
 
 6. Wrapping Up SQL Fundamentals
 
