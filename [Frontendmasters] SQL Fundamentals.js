@@ -11,7 +11,7 @@ Finish
 
 3. Querying Across Tables
 Start
-
+Finish
 
 4. Creating, Updating, and Deleting
 5. The Schema Evolves
