@@ -14,6 +14,9 @@ Start
 Finish
 
 4. Creating, Updating, and Deleting
+Start
+
+
 5. The Schema Evolves
 6. Wrapping Up SQL Fundamentals
 
